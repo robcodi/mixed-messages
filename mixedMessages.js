@@ -5,4 +5,4 @@ for (i=0; i < 7; i++) {
     console.log(randomJokes[mixThemUp])
 }
 
-
+console.log('Add more jokes')
